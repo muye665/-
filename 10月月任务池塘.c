@@ -21,11 +21,11 @@ void tran(int x, int y, char a[MAX][MAX]){
 
 int main(){
 	int cnt = 0;
-	int m,n,i,j; //w为新水，1为统计后的水
+	int m,n,i,j; //w涓烘柊姘达紝1涓虹粺璁″悗鐨勬按
 	
-	scanf("%d %d",&m,&n) ;//m为列，n为行 
+	scanf("%d %d",&m,&n) ;//m涓哄垪锛宯涓鸿 
 	
-	for(i = 0; i < m ; i ++){  //i为列，j为行 
+	for(i = 0; i < m ; i ++){  //i涓哄垪锛宩涓鸿 
 		scanf("%s" , a[i]);
 	}
 	
