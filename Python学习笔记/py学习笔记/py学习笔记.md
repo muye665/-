@@ -18,7 +18,7 @@ pycharm，专用于python的开发
 
 ### 更改主题
 
-![Alt text](<屏幕截图 2024-01-20 134747.png>)
+![Alt text](https://github.com/muye665/-/blob/main/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/py%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-20%20134747.png)
 
 ### 更改字体
 
